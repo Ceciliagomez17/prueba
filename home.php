@@ -33,7 +33,7 @@ $DBcon->close();
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="http://www.codingcage.com">Software Libre II</a>
+          <a class="navbar-brand" href="">Software Libre II</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
@@ -49,7 +49,7 @@ $DBcon->close();
     </nav>
 
 <div class="container" style="margin-top:150px;text-align:center;font-family:Verdana, Geneva, sans-serif;font-size:35px;">
-	<a href="http://www.codingcage.com/">Desarrollo de Software Libre II</a><br /><br />
+	<a href="">Desarrollo de Software Libre II</a><br /><br />
     <p>Práctica de Certificados SSL</p>
 </div>
 
