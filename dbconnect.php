@@ -2,7 +2,7 @@
 
 	 $DBhost = "localhost";
 	 $DBuser = "root";
-	 $DBpass = "";
+	 $DBpass = "1234";
 	 $DBname = "system";
 	 
 	 $DBcon = new MySQLi($DBhost,$DBuser,$DBpass,$DBname);
